@@ -2,6 +2,12 @@ var { ledgerRequestData } = require("../models/ledger");
 const { responceArray } = require("../public/javascripts/function");
 
 
+/**
+ * 
+ * @param {*} req 
+ * @param {*} res 
+ */
+
 exports.add = (req, res) => {
 
     // Create a Ledger using request data

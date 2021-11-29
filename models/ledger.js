@@ -16,13 +16,7 @@ var lineItemSchema = new Schema({
 })
 
 var responceSchema = new Schema({
-    lineitem:[
-        {
-            start_date: {type:String,required:true},
-            end_date: {type:String,required:true},
-            total_amount:{type:Number, required:true}
-        }
-    ] 
+    lineitem:{type:Array, default:[]}  
 });
 
 
