@@ -1,4 +1,4 @@
-# LedgerRestAPI
+# Ledger Rest API
 
 This project was generated with [ExpressJs](https://expressjs.com/) version 4.16.1.
 
