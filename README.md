@@ -26,7 +26,7 @@ HTTP Method: `POST`
 
 URL : `http://localhost:3000/ledger`
 
-Sample Body: ` {
+Sample JSON Body Request: ` {
     "start_date":"2020-03-28T00:00:00.000Z",
     "end_date":"2020-05-27T00:00:00.000Z",
     "frequency":"FORTNIGHTLY",
