@@ -2,7 +2,7 @@
 
 This project was generated with [ExpressJs](https://expressjs.com/) version 4.16.1.
 
-# Clone the Repo
+## Clone the Repo
 
 To view the project, first clone the LedgerRestAPI repo using `git clone https://github.com/rasika1995/LedgerRestAPI.git`.
 
