@@ -23,7 +23,9 @@ Run `npm start` for a dev server. Navigate to `http://localhost:3000/`.
 Information About Sample Rest API
 
 HTTP Method: `POST`
+
 URL : `http://localhost:3000/ledger`
+
 Sample Body: ` {
     "start_date":"2020-03-28T00:00:00.000Z",
     "end_date":"2020-05-27T00:00:00.000Z",
