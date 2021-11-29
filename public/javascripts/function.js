@@ -1,7 +1,5 @@
 var { ledgerResponceData, ledgerlineItem  } = require("../../models/ledger");
 
-
-
 /**
  * return the reponce according to the ledger request
  * 
@@ -159,7 +157,6 @@ function addDates(date, dates) {
     s_date = new Date(start_date);
     e_date = new Date(end_date);
     var days = Math.round( (e_date.getTime() - s_date.getTime()) / (one_day));
-    console.log(days);
     return days
 }
 
